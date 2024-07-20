@@ -1,0 +1,95 @@
+.hero-arrivals h1 {
+  width: 700px;
+  height: 40px;
+  font-size: 20px;
+  margin-left: 100px;
+  margin-top: 100px;
+  font-weight: 500;
+}
+
+.hero-container {
+  background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
+  display: flex;
+  height: 700px;
+  gap: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.imagegirls {
+  margin-left: 20px;
+}
+.hero {
+  justify-content: center;
+  align-items: center;
+  margin-left: 150px;
+  margin-right: 10px;
+  width: 800px;
+  height: 500px;
+  margin-top: 80px;
+}
+.hand-icon {
+  font-size: 30px;
+  margin-left: 100px;
+  font-weight: 700;
+  width: 500px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  height: 20px;
+}
+.hand-icon p {
+  height: 10px;
+  font-size: 70px;
+  margin-top: 5px;
+}
+.handsigns {
+  height: 70px;
+  width: 70px;
+}
+.paragraphs {
+  margin-left: 100px;
+  height: 10px;
+  font-size: 70px;
+  line-height: 1px;
+  font-weight: bold;
+}
+.buttonsof {
+  margin-top: 120px;
+  margin-left: 100px;
+  width: 230px;
+  height: 50px;
+  background-color: #fa902d;
+  outline: none;
+  border: none;
+  color: white;
+  border-radius: 50px;
+  font-size: 15px;
+  gap: 10px;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 4px;
+}
+.imagegirl {
+  height: 700px;
+  width: 500px;
+}
+.imageofarrow {
+  margin-left: 5px;
+  padding-top: 4px;
+}
+.popular {
+  font-size: 30px;
+  width: 1000px;
+
+  margin-left: 450px;
+  align-items: center;
+
+  border-bottom: 4px solid black;
+  border-padding-bottom: 2px;
+  border-margin-bottom: -5px;
+}
+.hero-otherpart {
+  width: 1000px;
+  margin-top: 200px;
+}
